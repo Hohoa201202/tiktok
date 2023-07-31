@@ -19,11 +19,11 @@ function App() {
         Show
       </button>
       <div>
-        { isShow && <Content/>}
+        {isShow && <Content />}
       </div>
 
       <Button />
-
+      {/* Tại sao test */}
     </div>
   );
 }
